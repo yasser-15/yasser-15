@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasser-15
-- 👀 I’m interested in software development and full_stake web development 
+- 👀 I’m interested in software development and full_stack web development 
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on e web 3.0 app
 
